@@ -4,9 +4,16 @@
 Monday 23 November to a COP31 that ended with no deal at all — and the day's news is what
 happens next: the reactions, the blame, the road to COP32, while Asia's markets rout on the
 AI sell-off and India closes in on a famous Wellington win. Heroes: (1) COP31 aftermath,
-(2) India six wickets from victory, (3) Asia's AI rout. Wires read up to 01:15 UTC.
-Press time 01:15 UTC, Monday 23 November 2026. Early edition: the day is still young in
+(2) India six wickets from victory, (3) Asia's AI rout. Wires read up to 01:59 UTC.
+Press time 01:59 UTC, Monday 23 November 2026. Early edition: the day is still young in
 Europe and the Americas; scheduled items are marked as scheduled.
+
+**Fix round (23 Nov, 01:59 UTC):** independent verification caught four panels and twelve
+ALSO items that were NOT 23 November — the "23 Nov news lists" had republished older
+stories under the list date. All sixteen are removed from panels/ALSO, listed in DATE
+CHECK with their true dates, and replaced with stories verified from primary sources.
+Nothing else changed: P1–P3, P5–P8, P12, P13, the big-number strip and the map pins are
+unchanged.
 
 **Date rule applied throughout:** a story counts if it happened OR was first reported on
 23 November 2026 in any timezone. Anything else is in DATE CHECK, not in a panel.
@@ -46,11 +53,14 @@ Saturday; China's exchanges eased margin-financing requirements. Japan's markets
 closed for a holiday; Australian stocks slightly lower.
 Source: Reuters, 23 Nov 2026.
 
-### P4 — NATIONS AGREE TO KEEP TALKING ON KILLER ROBOTS (United Nations) — REPORTED
-Nations agree to continue negotiations on lethal AI systems at the United Nations
-conference — the talks on autonomous weapons go on rather than collapsing. Published
-Mon 23 Nov 2026, 00:02 UTC.
-Source: wire report, published 2026-11-23T00:02:39Z.
+### P4 — BRITAIN: THE CASE FOR PUBLIC CONTROL (London) — REPORTED [FIX-ROUND REPLACEMENT]
+The Labour government sets out the case for more public control of energy and water
+utilities on Monday. Senior minister Louise Haigh addresses the CBI annual conference
+to argue the case; foreign governments own significant stakes in the sector. The
+government's push comes as the utilities debate — ownership, bills and investment —
+returns to the front of British politics.
+Source: Reuters, Mon 23 Nov 2026 ("UK government to make case for greater public
+control of utilities").
 
 ### P5 — SEARCH RESUMES AT THE CIKANDE FACTORY (Indonesia) — CONFIRMED
 The search for the missing resumes on Monday at the PT Fonusa Agung Mulia candy factory
@@ -80,19 +90,31 @@ North Korea's Kim says the country seeks security, not supremacy — first repor
 Mon 23 Nov 2026, 01:00 UTC (AFP, Seoul).
 Source: AFP via NAMPA, 23 Nov 2026 01:00:08.
 
-### P9 — SHAH'S ₹4,000 CRORE PUSH FOR ARUNACHAL (India) — REPORTED
-Home Minister Amit Shah launches a ₹4,000 crore infrastructure push in Arunachal
-Pradesh, stressing self-reliance and cooperative development (23 Nov).
-Source: 23 Nov 2026 news lists (Observer Voice).
+### P9 — RUPEE FIRMS AS FLOWS POUR IN (India / markets) — REPORTED [FIX-ROUND REPLACEMENT]
+The rupee closed at 92.67 to the dollar on Friday, strengthening past 93 for the first
+time since April, and gaining 1.7% on the week — helped by a record $12bn of foreign
+equity inflows in November, with bonds taking in another $1.2bn in the first three
+weeks of the month. The benchmark 10-year bond yield ended at 7.1868%, down 12 basis
+points last week. HSBC's flash PMI is due Monday at 10:30 IST (not yet out at press
+time). Traders watch oil prices, the RBI's December 4 decision and the Fed's December
+9 meeting.
+Source: Reuters, Mon 23 Nov 2026 ("Foreign inflows lend support to rupee, bonds").
 
-### P10 — ANUPAMA KEEPS THE WORLD SNOOKER CROWN (Sport) — REPORTED
-Anupama successfully defends the IBSF World Women's Snooker Championship (23 Nov).
-Source: 23 Nov 2026 sports lists (Daily Jagran).
+### P10 — GENEVA: CALM BEFORE GAME 1 (World Chess Championship) — CONFIRMED (scheduled) [FIX-ROUND REPLACEMENT]
+Media day and a technical meeting in Geneva on Monday, ahead of Game 1 on Tuesday
+24 Nov at 15:00 CET. Defending champion Gukesh Dommaraju (India) faces challenger
+Javokhir Sindarov (Uzbekistan) at the Fondation Martin Bodmer in Cologny; both are 20,
+the youngest world championship match ever. At Sunday's opening ceremony the draw
+gave Sindarov the White pieces for Game 1.
+Sources: FIDE / worldchess.com schedule, 23 Nov 2026; chess.com; The Hindu, 23 Nov 2026.
 
-### P11 — THE CHIP-SMUGGLING NETWORK (Tech) — REPORTED
-Nvidia row: fresh details tie Alice Huang to a secret network diverting AI chips to
-China (23 Nov).
-Source: 23 Nov 2026 news lists (Daily Jagran).
+### P11 — SAN FRANCISCO BRACES FOR KING TIDES (California) — REPORTED [FIX-ROUND REPLACEMENT]
+A National Weather Service coastal flood warning takes effect at 6 AM on Monday and
+runs to 4 PM on Thursday. Monday's high tide hits 8.0 ft (MLLW) at 9:25 AM — 2.2 ft
+above normal — with up to 2.8 ft of inundation in low-lying areas; tides approach the
+record 8.66 ft set in January 1983. Mayor Daniel Lurie urges residents to avoid travel
+in flooded areas; a storm arrives Tuesday and Wednesday.
+Sources: NWS forecast, 23 Nov 2026; Bloomberg, 23 Nov 2026.
 
 ### P12 — DYMER: THE SEARCH GOES INTO DAY TWO (Ukraine) — REPORTED
 Rescuers keep digging on Monday at Dymer, north of Kyiv, where a Russian drone strike
@@ -111,23 +133,25 @@ Sources: 23 Nov 2026 news lists; AP wire, 22 Nov 2026.
 
 ## ALSO — 17 more stories, all 23 November 2026
 
-1. BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi.
-2. India and Bulgaria discuss bilateral ties, IMEC and the Black Sea situation.
-3. University of Hyderabad students continue their protest, demanding a faculty member's
-   termination over alleged casteist remarks.
-4. Six sent to a juvenile home after the Mumbai assault; a Maharashtra SP leader seeks
-   an age change.
-5. At least nine killed as a vehicle carrying pilgrims rams into a truck in Rajasthan's Kota.
-6. Kashmir's famed saffron fields have been used as dumping grounds for three years,
-   says Mehbooba Mufti.
-7. Tata Steel's ₹28,000 crore deal with APL Apollo.
-8. IFFI 2026 hosts a BRICS Roundtable to strengthen film-industry partnerships.
-9. Bay Area: high tides may flood low-lying shoreline areas on Monday; the National
-   Weather Service coastal flood advisory runs through Thursday; Monday's high tide
-   8.0 ft at 9:25 a.m.
-10. World chess championship (23 Nov sports lists).
-11. UK to produce Ukrainian drones as part of a new agreement.
-12. A French presidential candidate repeats the call for Israel to free the Palestinian doctor.
+1. Food inflation bites as protein prices soar — Mint, 23 Nov 2026, 06:00 IST.
+2. Ten test positive for hepatitis A in a Kota village after water contamination —
+   Times of India, 23 Nov 2026, 00:45 IST.
+3. Karnataka voters challenge deletions under the SIR — The Hindu, 23 Nov 2026,
+   05:11 IST.
+4. The 18th UP Legislative Assembly sits for less than 90 days a year — The Hindu,
+   23 Nov 2026, 01:47 IST.
+5. Vijayawada Mayor and 86 corporators take oath today — The Hindu, 23 Nov 2026.
+6. JEE Main 2027 late-fee registration opens today (₹500, till 26 Nov); 15.04 lakh
+   forms received — Shiksha, updated 23 Nov 2026, 06:45 IST.
+7. SP and Congress to discuss seat-sharing today — The Hindu, 23 Nov 2026.
+8. BHP unveils plans to double South Australia copper output by 2040, $14.2–18.1bn —
+   Reuters, Mon 23 Nov 2026.
+9. Ranchi's Fatty Liver Free campaign launches on Monday — Avenue Mail, 22 Nov 2026
+   18:06 (launch day Mon 23 Nov).
+10. Paolo Bulgari's funeral is held in Rome on Monday (he died 21 Nov) — AP, 23 Nov 2026.
+11. Tata Sons' listing fight heads for Thursday's board meeting — Mint, 23 Nov 2026
+    ("Today in 60 seconds" top story).
+12. Oil prices cool, shifting RBI rate expectations — Economic Times, 23 Nov 2026.
 13. Japan's markets closed for a public holiday on Monday (Reuters).
 14. Australian stocks slightly lower, down 0.5% (Reuters).
 15. Hang Seng futures point to a fall (Reuters).
@@ -137,12 +161,12 @@ Sources: 23 Nov 2026 news lists; AP wire, 22 Nov 2026.
 
 ## Regions (sum = 30 stories)
 
-- Asia-Pacific 20 (P2, P3, P5, P7, P8, P9, P10, P11 + A1-A8, A13, A14, A15, A17)
-- Europe 6 (P4, P12, P13 + A11, A12, A16)
+- Asia-Pacific 21 (P2, P3, P5, P7, P8, P9 + A1-A9, A11-A15, A17)
+- Europe 5 (P4, P12, P13 + A10, A16)
 - Middle East 1 (P1 — Antalya, Türkiye)
 - Africa 1 (P6 — Centurion)
-- Americas 1 (A9 — California)
-- Global 1 (A10 — world chess championship)
+- Americas 1 (P11 — San Francisco)
+- Global 1 (P10 — world chess championship, Geneva)
 
 ## Big-number strip (6 — all from panels P1-P3)
 
@@ -153,13 +177,46 @@ Sources: 23 Nov 2026 news lists; AP wire, 22 Nov 2026.
 - 700 — carbon-capture lobbyists inside COP31 (P1)
 - 6 — wickets India need to win the Wellington Test (P2)
 
-## Map pins (10)
+## Map pins (10) — unchanged; the new panel locations (London, Geneva, San Francisco) are not pinned
 
 1 Antalya (COP31) · 2 Wellington (India day five) · 3 Seoul (KOSPI) · 4 Taipei (Taiwan
 week) · 5 Cikande (factory fire) · 6 Dymer (rescue) · 7 Centurion (2nd Test) ·
 8 New Delhi (Nepal talks) · 9 Pyongyang (Kim) · 10 Gulf of Finland (burning ship)
 
 ## DATE CHECK — deliberately NOT in this edition (with dates)
+
+The on-image DATE CHECK shows an abbreviated list (space); the full list is here.
+
+### Removed panels (fix round — verified from primary sources)
+
+- CCW "killer robots" agreement — Sat 21 Nov, 04:30 Geneva (NPR / KRPS / WCMU) —
+  NOT 23 Nov 00:02.
+- Amit Shah's ₹4,000 crore Arunachal launch — Sun 22 Nov (ANI / Nation Press /
+  Ministry of Cooperation) — NOT 23 Nov.
+- Anupama's snooker title defence — final Sat 21 Nov, Indore; reported 22 Nov
+  (The Hindu / India Today) — NOT 23 Nov.
+- WSJ Li Ming / Alice Huang chip-smuggling network — WSJ reported Fri 21 Nov
+  (Seoul Economic Daily 22 Nov) — NOT 23 Nov.
+
+### Removed ALSO items (fix round — verified from primary sources)
+
+- BJP MP Ramrao Wadkute dies — Sat 21 Nov 23:45, reported 22 Nov.
+- India–Bulgaria talks — Sat 21 Nov, published 22 Nov.
+- University of Hyderabad sit-in — The Hindu 22 Nov ("continue protest"); date
+  ambiguous, replaced to be safe.
+- Mumbai assault, six juveniles held — incident Fri 20 Nov, court Sat 21 Nov,
+  reported 22 Nov.
+- Kota pilgrim crash — Sun 22 Nov, ~1 AM.
+- Mufti on Kashmir saffron fields — Sat 21 Nov.
+- Tata Steel / APL Apollo deal — board Sun 22 Nov.
+- IFFI BRICS Roundtable — PIB Goa 22 Nov.
+- UK to build Ukrainian drones — agreement signed Sat 21 Nov.
+- Mélenchon call to free the Palestinian doctor — Sun 22 Nov evening vs Mon 23 Nov
+  00:xx mirror timestamps; ambiguous, replaced to be safe.
+- Bay Area king tides — promoted to panel P11 (would have duplicated).
+- World chess championship — promoted to panel P10 (would have duplicated).
+
+### Earlier DATE CHECK items (unchanged from the first build)
 
 - COP31 collapse itself — Sun 22 Nov (today: the aftermath and reactions)
 - 186-drone barrage on Ukraine — overnight 21-22 Nov
@@ -183,11 +240,15 @@ week) · 5 Cikande (factory fire) · 6 Dymer (rescue) · 7 Centurion (2nd Test) 
 
 ## Sources (primary first)
 
-Reuters (23 Nov: Wellington lunch 00:21 UTC; Singapore markets; Dymer 22 Nov; Cikande
-22 Nov; Myanmar ASEAN 22 Nov) · AFP via NAMPA (23 Nov: Albanese COP31; Kim 01:00 UTC;
-South Sudan wire) · Cricbuzz (23 Nov: Centurion preview; Mushfiqur ruled out) ·
-globalsociety.earth (23 Nov 00:01 GMT: COP31 collapse analysis) · Make Big Polluters Pay
-alliance release via Medianet (23 Nov) · AP wire via Breitbart (22 Nov: cargo ship,
-Kaliningrad alert) · 23 Nov news lists: Observer Voice, Jagran Josh, Daily Jagran
-(India domestic, sport) · wire list, published 2026-11-23T00:02:39Z (UN lethal-AI talks).
-Never used: aggregator republication dates; bloggersminds.com ("Chris Dalton").
+Reuters (23 Nov: Wellington lunch 00:21 UTC; Singapore markets; UK utilities; rupee
+and bonds; BHP copper) · AFP via NAMPA (23 Nov: Albanese COP31; Kim 01:00 UTC) ·
+Cricbuzz (23 Nov: Centurion preview; Mushfiqur ruled out) · globalsociety.earth
+(23 Nov 00:01 GMT: COP31 collapse analysis; stocktake debate) · Make Big Polluters Pay
+alliance release via Medianet (23 Nov) · AP wire (22 Nov: cargo ship, Kaliningrad
+alert; 23 Nov: Bulgari funeral) · NWS (23 Nov: San Francisco king tides) ·
+Bloomberg (23 Nov: king tides) · FIDE / worldchess.com (23 Nov: championship
+schedule) · chess.com (23 Nov) · The Hindu (23 Nov: SIR, UP Assembly, Vijayawada,
+seat-sharing, chess) · Mint (23 Nov: food inflation, Tata Sons) · Times of India
+(23 Nov: hepatitis A) · Shiksha (23 Nov: JEE Main) · Avenue Mail (22 Nov: Ranchi
+launch) · Economic Times (23 Nov: oil / RBI). Never used: aggregator republication
+dates; bloggersminds.com ("Chris Dalton"); list/roundup dates as first-report dates.

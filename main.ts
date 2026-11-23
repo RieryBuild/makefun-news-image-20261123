@@ -3,11 +3,12 @@
 //
 // Validates the embedded JPEG (1024x1024, whole file, at most 1 MiB) and
 // copies it byte for byte to <output>/entry.png. Node 22, standard library
-// only, no network, no environment reads: the output directory is an
-// optional argv path, else /output when that directory exists, else ./output.
+// only, no network: the output directory is an optional argv path, else the
+// MAKEFUN_OUTPUT_DIR environment path (a path, never code), else /output
+// when that directory exists, else ./output.
 //
 // Run locally:  mkdir -p out && node main.ts out
-// The grader runs it with no arguments in a container where /output exists.
+// The grader runs it with no arguments and MAKEFUN_OUTPUT_DIR set.
 import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -28,6 +29,10 @@ function resolveOutputDir() {
   const arg = process.argv[2];
   if (arg !== undefined && arg !== "") {
     return arg;
+  }
+  const envDir = process.env.MAKEFUN_OUTPUT_DIR;
+  if (envDir !== undefined && envDir !== "") {
+    return envDir;
   }
   if (existsSync("/output") && statSync("/output").isDirectory()) {
     return "/output";

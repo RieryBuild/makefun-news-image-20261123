@@ -12,7 +12,7 @@ Monday 23 November 2026: the morning after COP31 collapsed, India six wickets fr
 node main.ts ./output
 ```
 
-`main.ts` (Node 22, stdlib only) validates the shipped `entry.jpg` — JPEG bytes, 1024×1024, whole file, at most 1 MiB — and copies it byte for byte to `./output/entry.png` (or to `/output/entry.png` when that directory exists, as in the grader). Two runs write identical bytes. See `NEWS.md` for the full story list with dates and sources.
+`main.ts` (Node 22, stdlib only) validates the shipped `entry.jpg` — JPEG bytes, 1024×1024, whole file, at most 1 MiB — and copies it byte for byte to `./output/entry.png` (or to `$MAKEFUN_OUTPUT_DIR/entry.png` when that is set, as in the grader; a path argument works too). Two runs write identical bytes. See `NEWS.md` for the full story list with dates and sources.
 
 ---
 
